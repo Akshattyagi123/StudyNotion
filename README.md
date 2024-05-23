@@ -2,7 +2,7 @@
 ## Live 
 ## Installation
 
-1. Clone the repository: `https://github.com/RajAditya01/StudyNotion`
+1. Clone the repository: `https://github.com/Akshattyagi123/StudyNotion.git`
 2. Navigate to the project directory: `cd `
 3. Install dependencies: `npm install`
 
